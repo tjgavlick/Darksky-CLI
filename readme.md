@@ -5,3 +5,5 @@ First day learning js outside of the browser! This cute little application gets 
 `node app.js Pittsburgh`
 
 `node app.js "Portland, ME" Tucson 90210`
+
+If running Node versions 7.5 or 7.10, run with the `--harmony` flag, because I'm not reimplementing string padding.
